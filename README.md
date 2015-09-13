@@ -21,3 +21,9 @@ I'd love to hear about suggestions of common pitfalls, useful polyfills and prob
 
 You can always drop me a line here:
 dannypovolotski@gmail.com
+
+## Support and Chat
+
+Get help with and chat about ie8linter [on Codementor](https://www.codementor.io/danny).
+
+[![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/danny)
